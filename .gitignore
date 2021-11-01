@@ -1,0 +1,8 @@
+# Mac OS file
+.DS_Store
+
+# Virtual environment
+venv
+
+# Database
+app.db

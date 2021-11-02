@@ -2,7 +2,10 @@
 .DS_Store
 
 # Virtual environment
-venv
+venv/
 
 # Database
 app.db
+
+# Logs
+logs/

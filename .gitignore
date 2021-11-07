@@ -1,3 +1,6 @@
+# Python files
+*.pyc
+
 # Mac OS file
 .DS_Store
 
